@@ -1,0 +1,24 @@
+p {
+	color: #c2c2c2;
+}
+
+h1 {
+	font-family: calibri light;
+}
+
+.olive {
+	color: olive;
+}
+
+#twoparagraph {
+	border: 1px green solid;
+}
+
+.flashing {
+	color: black;
+	font-size: 30px;
+}
+
+.lemon {
+	color: yellow;
+}
